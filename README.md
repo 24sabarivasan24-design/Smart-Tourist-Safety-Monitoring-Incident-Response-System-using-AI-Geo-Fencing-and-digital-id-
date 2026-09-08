@@ -1,1 +1,0 @@
-# Smart-Tourist-Safety-Monitoring-Incident-Response-System-using-AI-Geo-Fencing-and-digital-id-
